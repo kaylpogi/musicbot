@@ -22,11 +22,11 @@
 
 
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""], 
+  TOKEN: "MTIzNDY2ODE1ODc1Mzk2NDAzMg.G0GDPU.5ODoYPkQ3cj6W6LzDL6kCP4omXGZo14KspFLvQ",
+  ownerID: ["1009109718918242424"], 
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
-  embedColor: "00fbff",
+  embedColor: "#680c07",
   errorLog: "", 
 
 }
