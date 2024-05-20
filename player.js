@@ -57,7 +57,7 @@ function initializePlayer(client) {
 
    
         const embed = new EmbedBuilder()
-        .setColor("#0099ff")
+        .setColor("#000000")
         .setAuthor({
             name: 'Now Playing',
             iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236664581364125787/music-play.gif?ex=6638d524&is=663783a4&hm=5179f7d8fcd18edc1f7d0291bea486b1f9ce69f19df8a96303b75505e18baa3a&', 
